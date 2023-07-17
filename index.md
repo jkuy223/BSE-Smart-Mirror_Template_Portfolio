@@ -31,7 +31,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 # Second Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
+**For my second milestone I have added more modules that do actions like connect people to my wifi or ask trivia questions. I also setup the correct time and weather from the base template. The third party module integration was diffucult as I had trouble with the code and certain modules. I got through this by refering to the base code at all times to make sure I wasn't messing up the main code. The third party modules got easier to integrate the more I added as the process is usally the same. I now have to just add on the actual mirror on the display and make sure the smart part of the mirror is visable through the mirror..**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
