@@ -43,7 +43,8 @@ For your second milestone, explain what you've worked on since your previous mil
 
 # First Milestone
 
-**For my first milestone I set up my magic mirror software and the display with the raspberry pi. Initially I was confused with where to start but once I figured that out everything.**
+**For my first milestone I set up my magic mirror software and the display with the raspberry pi. Initially I was confused with where to start but once I figured that out everything went pretty smooth. I set up the code for the magic mirror following the guide on Magic Mirror builders for raspberry pie and connected my display to my raspberry pi so I could actually see the magic mirror base template. After this 
+I still have to add more modules and actually set up the pyschical mirror on the display.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
