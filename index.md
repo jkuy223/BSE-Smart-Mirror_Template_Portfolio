@@ -63,6 +63,106 @@ Here's where you'll put your code. The syntax below places it into a block of co
 ```c++
 void setup() {
   // put your setup code here, to run once:
+{
+			module: "alert",
+		},
+		{
+			module: "updatenotification",
+			position: "top_bar"
+		},
+		{
+			module: "clock",
+			position: "top_left"
+		},
+		{
+			module: "calendar",
+			header: "US Holidays",
+			position: "top_left",
+			config: {
+calendars: [
+					{
+						fetchInterval: 7 * 24 * 60 * 60 * 1000,
+						symbol: "calendar-check",
+						url: "https://ics.calendarlabs.com/76/mm3137/US_Holidays.ics"
+					}
+				]
+			}
+		},
+		{
+			module: "compliments",
+			position: "lower_third"
+		},
+		{
+			module: "weather",
+			position: "top_right",
+			config: {
+				weatherProvider: "openweathermap",
+				type: "current",
+				location: "New York",
+				locationID: "5128581", //ID from http://bulk.openweathermap.org/sample/city.list.json.gz; unzip the gz file and find your city
+				apiKey: "98e6e54a5c8e2b3dce3259409a6a7e4f"
+			}
+		},
+		{
+			module: "weather",
+			position: "top_right",
+			header: "Weather Forecast",
+			config: {
+				weatherProvider: "openweathermap",
+				type: "forecast",
+				location: "New York",
+				locationID: "5128581", //ID from http://bulk.openweathermap.org/sample/city.list.json.gz; unzip the gz file and find your city
+				apiKey: "98e6e54a5c8e2b3dce3259409a6a7e4f"
+			}
+},
+		{
+			module: "newsfeed",
+			position: "bottom_bar",
+			config: {
+				feeds: [
+					{
+						title: "New York Times",
+						url: "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
+					}
+				],
+				showSourceTitle: true,
+				showPublishDate: true,
+				broadcastNewsFeeds: true,
+				broadcastNewsUpdates: true
+			}
+		},
+		{
+			module: "MMM-GoogleDriveSlideShow",
+			position: "bottom_bar",
+			config: {
+				rootFolderId: null,
+				maxFolders: 10, 
+				maxResults: 100,
+				playMode: "AUTO",
+				nextOnNotification: null,
+				stopOnNotification: null,
+				startOnNotification: null,
+				refreshDriveDelayInSeconds: 24 * 3600, 
+				refreshSlideShowIntervalInSeconds: 10,
+				maxWidth: "800",
+				maxHeight: "600",
+				theme: "whiteFrame",
+				opacity: 1,
+				debug: false
+			    }
+			},
+		    {
+    module: 'MMM-WiFiPassword',
+    position: "top_left",
+ config: {
+        //See 'Configuration options' for more information.
+        network: "Oscuro_is_the_best_period", 
+        password: "Kirby_cutie@xxx",
+         }
+      },
+	]
+};
+
   Serial.begin(9600);
   Serial.println("Hello World!");
 }
