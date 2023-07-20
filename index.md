@@ -11,7 +11,6 @@ My project was a smart mirror. I had to connect a display to a raspberry pi whic
 | Gerardo G | John H. Francis Polytechnic | Areospace Engineering | Incoming Senior
 
 
-
 ![Headstone Image](IMG_2205.jpeg)
   
 # Final Milestone
