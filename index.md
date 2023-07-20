@@ -17,11 +17,10 @@ You should comment out all portions of your portfolio that you have not complete
   
 # Final Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-For your final milestone, explain the outcome of your project. Key details to include are:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-YQCNUtFIGc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 - For my my final milestone I have added my case for my display which makes adding other things much easier so while I don't have the mirror my final template for the display is good
 - Getting to this step was really acomplishing as I struggled with the code a lot and would constalty mess up my whole template for the mirror but anyway I added and fixed modules or existing modules and have everything I want in my code for the mirror
 - this program has let me learn the issues you can face in this field and where my strengths are and what i need to work on more. This project specifcally taught me that coding and knowing more about the coding vocabulary and overall terms and knowledge is very important for engineers
@@ -30,12 +29,8 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 # Second Milestone
 
-**
-*
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4OVFgq1mOQk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
 - For my second milestone I have added more modules that do actions like connect people to my wifi or ask trivia questions. 
 I also setup the correct time and weather from the base template.
 -The third party module integration was diffucult as I had trouble with the code and certain modules. I got through this by refering to the base code at all times to make sure I wasn't messing up the main code.
@@ -44,12 +39,9 @@ I also setup the correct time and weather from the base template.
 
 # First Milestone
 
-**For my first milestone I set up my magic mirror software and the display with the raspberry pi. Initially I was confused with where to start but once I figured that out everything went pretty smooth. I set up the code for the magic mirror following the guide on Magic Mirror builders for raspberry pie and connected my display to my raspberry pi so I could actually see the magic mirror base template. After this 
-I still have to add more modules and actually set up the pyschical mirror on the display.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e35GBWoYg5E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-For your first milestone, describe what your project is and how you plan to build it. You can include:
 - For my first milestone I set up my magic mirror software and the display with the raspberry pi
 - Initially I was confused with where to start but once I figured that out everything went pretty smooth
 - I set up the code for the magic mirror following the guide on Magic Mirror builders for raspberry pie and connected my display to my raspberry pi so I could actually see the magic mirror base template
