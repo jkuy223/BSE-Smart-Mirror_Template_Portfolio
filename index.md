@@ -1,5 +1,5 @@
 # Gerardo's Project
-Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
+My project was a smart mirror. I had to connect a display to a raspberry pi which was my first time using one. I used it to run the base code for my smart mirror then made a case to hold the display. I mainly stuggled with coding and inputing commands. I didn't understand much of the steps I would see online so asking for help from instructors was key. I completed my project up to the case which holds my lcd display and I like how my smart mirror templates looks.
 
 You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
 ```HTML 
@@ -22,24 +22,25 @@ You should comment out all portions of your portfolio that you have not complete
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 For your final milestone, explain the outcome of your project. Key details to include are:
-- What you've accomplished since your previous milestone
-- What your biggest challenges and triumphs were at BSE
-- A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE
+- For my my final milestone I have added my case for my display which makes adding other things much easier so while I don't have the mirror my final template for the display is good
+- Getting to this step was really acomplishing as I struggled with the code a lot and would constalty mess up my whole template for the mirror but anyway I added and fixed modules or existing modules and have everything I want in my code for the mirror
+- this program has let me learn the issues you can face in this field and where my strengths are and what i need to work on more. This project specifcally taught me that coding and knowing more about the coding vocabulary and overall terms and knowledge is very important for engineers
 
 
 
 # Second Milestone
 
-**For my second milestone I have added more modules that do actions like connect people to my wifi or ask trivia questions. I also setup the correct time and weather from the base template. The third party module integration was diffucult as I had trouble with the code and certain modules. I got through this by refering to the base code at all times to make sure I wasn't messing up the main code. The third party modules got easier to integrate the more I added as the process is usally the same. I now have to just add on the actual mirror on the display and make sure the smart part of the mirror is visable through the mirror..**
+**
+*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
-- Technical details of what you've accomplished and how they contribute to the final goal
-- What has been surprising about the project so far
-- Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone 
+- For my second milestone I have added more modules that do actions like connect people to my wifi or ask trivia questions. 
+I also setup the correct time and weather from the base template.
+-The third party module integration was diffucult as I had trouble with the code and certain modules. I got through this by refering to the base code at all times to make sure I wasn't messing up the main code.
+- The third party modules got easier to integrate the more I added as the process is usally the same. 
+-I now have to just add on the actual mirror on the display and make sure the smart part of the mirror is visable through the mirror.
 
 # First Milestone
 
@@ -49,10 +50,10 @@ I still have to add more modules and actually set up the pyschical mirror on the
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 For your first milestone, describe what your project is and how you plan to build it. You can include:
-- An explanation about the different components of your project and how they will all integrate together
-- Technical progress you've made so far
-- Challenges you're facing and solving in your future milestones
-- What your plan is to complete your project
+- For my first milestone I set up my magic mirror software and the display with the raspberry pi
+- Initially I was confused with where to start but once I figured that out everything went pretty smooth
+- I set up the code for the magic mirror following the guide on Magic Mirror builders for raspberry pie and connected my display to my raspberry pi so I could actually see the magic mirror base template
+- After this I still have to add more modules and actually set up the pyschical mirror on the display.
 
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
@@ -179,9 +180,9 @@ Don't forget to place the link of where to buy each component inside the quotati
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Lcd Display | This is where the smart mirror code is displayed onto the mirror | $49 | <a href="https://www.walmart.com/ip/Dioche-LCD-Touch-Screen-Capacitive-Touch-Screen-7-Inch-1024x600-LCD-Touch-Screen-Display-With-Acrylic-Shell-For-4B-3B-3B/199167286?wmlspartner=wlpa&selectedSellerId=101093676&&adid=22222222227199167286_101093676_157071512768_18742549668&wl0=&wl1=g&wl2=c&wl3=666037187212&wl4=pla-2162313096121&wl5=9031202&wl6=&wl7=&wl8=&wl9=pla&wl10=468006167&wl11=online&wl12=199167286_101093676&veh=sem&gclid=Cj0KCQjwk96lBhDHARIsAEKO4xYuTQBuy95KODaSyeM-1rDp51xMU9huGjWYHMmyIwW1BbBtJ8ympJ0aAgz0EALw_wcB&gclsrc=aw.ds"> Link </a> |
+| 7 inch case | Frame for the Lcd Display | $12 | <a href="https://www.amazon.com/Longruner-Raspberry-Various-Systems-LSC7B-1/dp/B07KRX3QCQ/ref=pd_bxgy_vft_none_sccl_1/142-0985611-7894557?pd_rd_w=iX9Wr&content-id=amzn1.sym.26a5c67f-1a30-486b-bb90-b523ad38d5a0&pf_rd_p=26a5c67f-1a30-486b-bb90-b523ad38d5a0&pf_rd_r=M5D9MWHEWDJDJ7RF6NEH&pd_rd_wg=4ZJB4&pd_rd_r=d39acf82-1e09-4218-b1d1-e74f0d003902&pd_rd_i=B07KRX3QCQ&psc=1"> Link </a> |
+| Raspberry Pi 4 Starter Kid | The Raspberry Pi is the computer for the mirror | $119 | <a href="https://www.canakit.com/raspberry-pi-4-starter-kit.html"> Link </a> |
 
 # Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
