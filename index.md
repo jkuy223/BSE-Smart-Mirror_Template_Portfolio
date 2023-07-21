@@ -19,7 +19,7 @@ My project was a smart mirror. I had to connect a display to a Raspberry pi whic
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/-YQCNUtFIGc" title="YouTube video player" frameborder="0"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-For my my final milestone I have added my case for my display which makes adding other things much easier so while I don't have      the  mirror my final template for the display is good
+  - For my my final milestone I have added my case for my display which makes adding other things much easier so while I don't have      the  mirror my final template for the display is good
   - Getting to this step was really acomplishing as I struggled with the code a lot and would constalty mess up my whole template for    the mirror but anyway I added and fixed modules or existing modules and have everything I want in my code for the mirror
   - This program has let me learn the issues you can face in this field and where my strengths are and what I need to work on more.      This project specifcally taught me that coding and knowing more about the coding vocabulary and overall terms and knowledge is very    important for engineers
 
@@ -29,18 +29,18 @@ For my my final milestone I have added my case for my display which makes adding
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/4OVFgq1mOQk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-   For my second milestone I have added more modules that do actions like connect people to my wifi or ask trivia questions. 
+  - For my second milestone I have added more modules that do actions like connect people to my wifi or ask trivia questions. 
   - I also setup the correct time and weather from the base template.
   -The third party module integration was diffucult as I had trouble with the code and certain modules. I got through this by refering   to the base code at all times to make sure I wasn't messing up the main code.
   - The third party modules got easier to integrate the more I added as the process is usally the same. 
-  -I now have to just add on the actual mirror on the display and make sure the smart part of the mirror is visable through the mirror.
+  - I now have to just add on the actual mirror on the display and make sure the smart part of the mirror is visable through the mirror.
 
   # First Milestone
 
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/e35GBWoYg5E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-   For my first milestone I set up my magic mirror software and the display with the Raspberry pi
+  - For my first milestone I set up my magic mirror software and the display with the Raspberry pi
   - Initially I was confused with where to start but once I figured that out everything went pretty smooth
   - I set up the code for the magic mirror following the guide on Magic Mirror builders for raspberry pie and connected my display to    my raspberry pi so I could actually see the magic mirror base template
   - After this I still have to add more modules and actually set up the pyschical mirror on the display.
