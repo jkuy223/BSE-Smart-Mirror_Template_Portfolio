@@ -14,9 +14,6 @@ My project was a smart mirror. I had to connect a display to a Raspberry pi whic
   ![Headstone Image](IMG_2205.jpeg)
   
 # Final Milestone
-
-
-
   <iframe width="560" height="315" src="https://www.youtube.com/embed/-YQCNUtFIGc" title="YouTube video player" frameborder="0"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
   - For my my final milestone I have added my case for my display which makes adding other things much easier so while I don't have      the  mirror my final template for the display is good
@@ -31,7 +28,7 @@ My project was a smart mirror. I had to connect a display to a Raspberry pi whic
 
   - For my second milestone I have added more modules that do actions like connect people to my wifi or ask trivia questions. 
   - I also setup the correct time and weather from the base template.
-  -The third party module integration was diffucult as I had trouble with the code and certain modules. I got through this by refering   to the base code at all times to make sure I wasn't messing up the main code.
+  - The third party module integration was diffucult as I had trouble with the code and certain modules. I got through this by refering   to the base code at all times to make sure I wasn't messing up the main code.
   - The third party modules got easier to integrate the more I added as the process is usally the same. 
   - I now have to just add on the actual mirror on the display and make sure the smart part of the mirror is visable through the mirror.
 
