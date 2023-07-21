@@ -1,4 +1,4 @@
-  # Gerardo's Project
+# Gerardo's Project
   My project was a smart mirror. I had to connect a display to a raspberry pi which was my first time using one. I used it to run the    base code for my smart mirror then made a case to hold the display. I mainly stuggled with coding and inputing commands. I didn't      understand much of the steps I would see online so asking for help from instructors was key. I completed my project up to the case     which holds my lcd display and I like how my smart mirror templates looks.
 
 
