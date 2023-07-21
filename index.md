@@ -13,7 +13,7 @@ My project was a smart mirror. I had to connect a display to a Raspberry pi whic
 
   ![Headstone Image](IMG_2205.jpeg)
   
-  # Final Milestone
+# Final Milestone
 
 
 
@@ -25,7 +25,7 @@ My project was a smart mirror. I had to connect a display to a Raspberry pi whic
 
 
 
-  # Second Milestone
+# Second Milestone
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/4OVFgq1mOQk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -35,7 +35,7 @@ My project was a smart mirror. I had to connect a display to a Raspberry pi whic
   - The third party modules got easier to integrate the more I added as the process is usally the same. 
   - I now have to just add on the actual mirror on the display and make sure the smart part of the mirror is visable through the mirror.
 
-  # First Milestone
+# First Milestone
 
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/e35GBWoYg5E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -45,7 +45,7 @@ My project was a smart mirror. I had to connect a display to a Raspberry pi whic
   - I set up the code for the magic mirror following the guide on Magic Mirror builders for raspberry pie and connected my display to    my raspberry pi so I could actually see the magic mirror base template
   - After this I still have to add more modules and actually set up the pyschical mirror on the display.
 
-  # Schematics 
+# Schematics 
   Here is how my Lcd and Raspberry pi are basically set up.
 <div align="center">
   <img src="SchematicBSE.jpeg" width="560">
