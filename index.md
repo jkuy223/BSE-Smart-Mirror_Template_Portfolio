@@ -46,7 +46,10 @@ I also setup the correct time and weather from the base template.
 - After this I still have to add more modules and actually set up the pyschical mirror on the display.
 
 # Schematics 
-Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
+Here is how my lcd and raspberry pi are basically set up.
+<div align="center">
+  <img src="SchematicBSE.jpeg" width="560">
+</div>
 
 # Code
 
