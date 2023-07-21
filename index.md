@@ -8,7 +8,7 @@ My project was a smart mirror. I had to connect a display to a Raspberry pi whic
 
   | **Engineer** | **School** | **Area of Interest** | **Grade** |
   |:--:|:--:|:--:|:--:|
-  | Gerardo G | John H. Francis Polytechnic | Areospace Engineering | Incoming Senior
+  | Gerardo G | John H. Francis Polytechnic | Aerospace Engineering | Incoming Senior
 
 
   ![Headstone Image](IMG_2205.jpeg)
